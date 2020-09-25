@@ -1,5 +1,5 @@
-# Politicas-de-Privacidade
-Politicas de privacidade Os Caçadores De Lendas
+# Política-de-Privacidade
+Política de privacidade Os Caçadores De Lendas
 
 SEÇÃO 1 - O QUE FAREMOS COM ESTA INFORMAÇÃO?
 Primeiramente é necessário deixar claro que nosso aplicativo não armazena e muito menos pede por informações do usuário, logo não estaremos lidando com nenhum dado sensível ou comum em geral.
