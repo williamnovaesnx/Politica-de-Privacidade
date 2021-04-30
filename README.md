@@ -11,7 +11,7 @@ O acesso à sites de terceiros será feito apenas para sites que possuem os devi
 SEÇÃO 3 - CONSENTIMENTO
 Você não precisará dar nenhum consentimento pois não estaremos coletando nenhum tipo de dado através de nosso aplicativo;
 
-Mas se for necessário entrar em contato conosco pode redirecionar um email para o endereço a seguir, a qualquer momento, william.fermino@nxmultiservicos.com.br ou nos enviando uma correspondência em: NX MULTISEVICOS EIRELLI R. Adhemar Pereira de Barros, 872 - Bela Suíça, Londrina - PR, 86047-250
+Mas se for necessário entrar em contato conosco pode redirecionar um email para o endereço a seguir, a qualquer momento, nxgame@nxmultiservicos.com.br ou nos enviando uma correspondência em: NX MULTISEVICOS EIRELLI R. Adhemar Pereira de Barros, 872 - Bela Suíça, Londrina - PR, 86047-250
 
 SEÇÃO 4 - SEGURANÇA
 Como não serão coletados dados de nenhuma espécie fica claro que o aplicativo não vai afetar os dados e informações certificando  que elas não serão perdidas inadequadamente, usurpadas, acessadas, divulgadas, alteradas ou destruídas.
